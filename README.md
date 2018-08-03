@@ -1,5 +1,6 @@
-# IGN-20-years-of-Games-Analysis
-Exploratory Data Analysis on IGN Gaming Dataset
+# IGN 20 years of games analysis
+
+Exploratory Data Analysis on IGN gaming data.
 
 ## Dataset Information
 It contains 18625 lines with the fields like the release date, it's platform and IGN's score. All the lines are fully filled.
